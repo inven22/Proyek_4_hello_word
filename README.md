@@ -8,11 +8,19 @@ Anggota kelompok :
 - Fikri hairul fahri 221511050
 - Muhammad faisal adha 221511057
 
+  Screenshot dari Ahmad al fajri 221511039
+
   Run di browser
   ![Nama Gambar](browser_run.png)
 
   Run di emulator mobile
   ![Nama Gambar](run_emulator.png)
+
+   Screenshot dari Fikri hairul Fahri 221511050
+
+  ![Nama Gambar](fikri.jpg)
+
+  
 
 
 ## Getting Started
