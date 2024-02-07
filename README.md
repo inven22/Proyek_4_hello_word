@@ -1,6 +1,21 @@
 # proyek4
 
-A new Flutter project.
+# proyek4
+
+ project aplikasi Hello word flutter dan laravel 
+
+Anggota kelompok : 
+
+- Ahmad al fajri 221511039
+- Fikri hairul fahri 221511050
+- Muhammad faisal adha 221511057
+
+  Run di browser
+  ![Nama Gambar](browser_run.png)
+
+  Run di emulator mobile
+  ![Nama Gambar](run_emulator.png)
+
 
 ## Getting Started
 
